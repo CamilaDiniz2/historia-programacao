@@ -1,0 +1,10 @@
+História da programação
+
+Não há uma data certa para o início, mas considera-se seu início na década de 30.
+A partir da década de 50 temos o surgimento das primeiras linguagens de programação modernas, dentre elas destaco FORTRAN e COBOL.
+Na década de 70 temos a criação dos paradigmas de programação e o surgimento das seguintes linguagens: C e Pascal.
+E nos anos 80 vê-se o surgimento da linguagem C++.
+E por fim, na década de 90 vemos o surgimento do Java, Jacascript e PHP.
+
+
+Fonte: https://www.infoescola.com/informatica/historia-da-programacao/
